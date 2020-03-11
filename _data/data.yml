@@ -30,7 +30,7 @@ sidebar:
       - item: Cycling 
         link:
 
-      - item: Woodworking and DIY projects
+      - item: <img src="/assets/images/woodworking.png" alt="woodworking" height="42" width="42">
         link:
 
       - item: Rugby
